@@ -1,5 +1,60 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mikabr/mikabr.r-universe.dev
 	shallow = true
 	branch = HEAD
+[submodule "metabias"]
+	path = metabias
+	url = https://github.com/mathurlabstanford/metabias
+	shallow = true
+	registered = true
+[submodule "multibiasmeta"]
+	path = multibiasmeta
+	url = https://github.com/mathurlabstanford/multibiasmeta
+	shallow = true
+	registered = true
+[submodule "phacking"]
+	path = phacking
+	url = https://github.com/mathurlabstanford/phacking
+	shallow = true
+	registered = true
+[submodule "PublicationBias"]
+	path = PublicationBias
+	url = https://github.com/mathurlabstanford/PublicationBias
+	shallow = true
+	registered = true
+[submodule "wordbankr"]
+	path = wordbankr
+	url = https://github.com/langcog/wordbankr
+	shallow = true
+	registered = true
+[submodule "childesr"]
+	path = childesr
+	url = https://github.com/langcog/childesr
+	shallow = true
+	registered = true
+[submodule "peekbankr"]
+	path = peekbankr
+	url = https://github.com/langcog/peekbankr
+	shallow = true
+	registered = true
+[submodule "jglmm"]
+	path = jglmm
+	url = https://github.com/mikabr/jglmm
+	shallow = true
+	registered = true
+[submodule "ggpirate"]
+	path = ggpirate
+	url = https://github.com/mikabr/ggpirate
+	shallow = true
+	registered = true
+[submodule "rwebppl"]
+	path = rwebppl
+	url = https://github.com/mhtess/rwebppl
+	shallow = true
+	registered = true
+[submodule "truncnormbayes"]
+	path = truncnormbayes
+	url = https://github.com/leonkt/truncnormbayes
+	shallow = true
+	registered = true
