@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/mikabr/mikabr.r-universe.dev
-	shallow = true
 	branch = HEAD
-[submodule "wordbankr"]
-	path = wordbankr
-	url = https://github.com/langcog/wordbankr
-	shallow = true
-	registered = true
-[submodule "peekbankr"]
-	path = peekbankr
-	url = https://github.com/langcog/peekbankr
-	shallow = true
-	registered = true
-[submodule "jglmm"]
-	path = jglmm
-	url = https://github.com/mikabr/jglmm
-	shallow = true
-	registered = true
 [submodule "ggpirate"]
 	path = ggpirate
 	url = https://github.com/mikabr/ggpirate
-	shallow = true
-	registered = true
+[submodule "jglmm"]
+	path = jglmm
+	url = https://github.com/mikabr/jglmm
+[submodule "peekbankr"]
+	path = peekbankr
+	url = https://github.com/langcog/peekbankr
 [submodule "rwebppl"]
 	path = rwebppl
 	url = https://github.com/mhtess/rwebppl
-	shallow = true
-	registered = true
+[submodule "wordbankr"]
+	path = wordbankr
+	url = https://github.com/langcog/wordbankr
